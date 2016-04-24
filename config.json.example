@@ -1,0 +1,4 @@
+{
+  "url": "http://shakespeare.mit.edu/1henryiv/full.html",
+  "dburl":"mongodb://<host>:27017/shakespeare"
+}
